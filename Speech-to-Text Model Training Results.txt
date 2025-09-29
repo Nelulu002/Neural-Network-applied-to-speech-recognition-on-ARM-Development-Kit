@@ -1,0 +1,2 @@
+Link to the speech recognition model training project – The folder contains all the data and training results of the speech-to-text bot, using Google Drive GPU to optimize the calculation speed. The resulting models are in .h5 format and Keras files, which can be used directly for further implementation steps such as integrating into a speech recognition system on ARM Kit or STM32.
+👉 Drive Link https://drive.google.com/drive/folders/1bFoEwohfYpU0erhm9Ar2hQ1NgBx9xLnx?usp=sharing
